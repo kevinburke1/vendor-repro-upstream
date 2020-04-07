@@ -1,0 +1,3 @@
+# github.com/kevinburkemeter/vendor-repro-dependency v0.0.0-20200407023543-028582253261
+## explicit
+github.com/kevinburkemeter/vendor-repro-dependency
